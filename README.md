@@ -7,7 +7,7 @@
   -Having more free time conducts to drink more?</br>
  -If you are going bad in school, Will you drink more?</br>
 
-2. Find patterns and clasify traffic accidentes based on geographics areas
-   Data-set: https://www.kaggle.com/anokas/2015-us-traffic-fatalities
+2. Find patterns and clasify traffic accidentes based on geographics areas</br>
+   Data-set: https://www.kaggle.com/anokas/2015-us-traffic-fatalities</br>
    Question to answer:</br>
    Need to take a look to data with more detail
