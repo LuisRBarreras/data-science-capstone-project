@@ -1,7 +1,7 @@
 # Capstone-project
 
 ## IDEAS
-1. Calculate Alcohol consumption based on his life style
+1. Calculate Alcohol consumption based on his life style </br>
   Data-set: http://archive.ics.uci.edu/ml/datasets/STUDENT+ALCOHOL+CONSUMPTION</br>
   Questions to answer:</br>
   -Having more free time conducts to drink more?</br>
